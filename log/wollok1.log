@@ -594,3 +594,10 @@
 {"level":"info","message":"onRequest - completionItem/resolve","timestamp":"2024-12-10T19:56:16.185Z"}
 {"level":"info","message":"⌛ Validating pedidosRapi2.wlk","timeElapsed":102,"timestamp":"2024-12-10T19:56:16.361Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":178,"timestamp":"2024-12-10T19:56:21.990Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":203,"timestamp":"2024-12-10T22:07:20.097Z"}
+{"level":"info","message":"onRequest - WORKSPACE_URI:file:///c%3A/Users/USUARIO/paradigmas/pedidoRapi","timestamp":"2024-12-10T22:07:20.113Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":133,"timestamp":"2024-12-10T22:07:20.248Z"}
+{"level":"info","message":"⌛ Validating pedidosRapi2.wlk","timeElapsed":297,"timestamp":"2024-12-10T22:07:20.555Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":164,"timestamp":"2024-12-10T22:07:20.721Z"}
+{"level":"info","message":"⌛ Validating pedidosRapi2.wlk","timeElapsed":231,"timestamp":"2024-12-10T22:07:20.969Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":128,"timestamp":"2024-12-10T22:07:58.042Z"}
